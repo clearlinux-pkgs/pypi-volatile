@@ -4,7 +4,7 @@
 #
 Name     : pypi-volatile
 Version  : 2.1.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/0d/c6/8ab8520c95262ba253e7cc93ba4636bdeeb9ab2c0bdec5034b46e01b607d/volatile-2.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/0d/c6/8ab8520c95262ba253e7cc93ba4636bdeeb9ab2c0bdec5034b46e01b607d/volatile-2.1.0.tar.gz
 Summary  : A small extension for the tempfile module.
@@ -62,7 +62,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641599285
+export SOURCE_DATE_EPOCH=1649793255
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
